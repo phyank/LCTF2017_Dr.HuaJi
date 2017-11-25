@@ -3,7 +3,7 @@ A solution and writeup. https://github.com/LCTF/LCTF2017/tree/master/src/re/%E6%
 
 Solution
 
-The function to generate Player and Huaji can be found in the mainp.
+The functions to generate Player and Huaji can be found in the mainp.
 
 Step into these functions, we can easily find that the structure
 recording the HP,MAX HP, MP and MAX MP of HuaJi is at 9C30 (RAW) ,and
